@@ -14,10 +14,8 @@ This project is an Instagram Clone created as part of the Codtech Task 1. The cl
 - Likes and Comments: Users can like and comment on posts.
 
 ## **Technologies Used**
-- **Frontend:** React, Tailwind CSS
+- **Frontend:** html,css
 - **Backend:** Node.js, Express
-- **Database:** MongoDB
-- **Authentication:** JWT (JSON Web Tokens)
 
 ## **Installation**
 1. Clone the repository:
