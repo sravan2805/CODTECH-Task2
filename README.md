@@ -1,5 +1,17 @@
 # Codtech Task 2: Instagram Clone
 
+**Name:** Konduru Sravan kumar
+
+**Company:** CODTECH IT SOLUTIONS
+
+**ID:** CT8FSWD1260
+
+**DOMAIN:** Full Stack Development
+
+**DURATION:** june to August 2024
+
+**MENTOR:** N.Santhosh Kumar
+
 ## **Overview of the project**
 This project is an Instagram Clone created as part of the Codtech Task 1. The clone replicates the core features of Instagram, allowing users to share photos, follow other users, and interact with posts.
 
